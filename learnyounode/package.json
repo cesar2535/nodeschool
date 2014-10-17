@@ -1,0 +1,16 @@
+{
+  "name": "learnyounode",
+  "version": "0.0.1",
+  "description": "training",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "bl": "^0.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar",
+  "license": "ISC"
+}
